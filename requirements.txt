@@ -1,0 +1,8 @@
+# Requirements for Week 1 - Personal Introduction Program
+# This project uses only Python standard library
+# No external packages required
+
+# Python Version: 3.8 or higher
+
+# Note: This file is included for completeness and best practices
+# The program runs with zero dependencies beyond Python itself
